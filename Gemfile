@@ -4,7 +4,7 @@ gem 'httparty'
 
 gem 'rspec'
 
-gem 'activesupport', '~> 5.0'
+gem 'activesupport', '~> 5.2'
 
 gem 'sneakers'
 gem 'bunny-mock'
